@@ -1,0 +1,20 @@
+[
+  {
+    "nomeProduto": "Aero Daily Fitness Tee",
+    "tamanho": "XS",
+    "cor": "Black",
+    "quantidade": 3
+  },
+  {
+    "nomeProduto": "Aether Gym Pant",
+    "tamanho": "33",
+    "cor": "Blue",
+    "quantidade": 5
+  },
+  {
+    "nomeProduto": "Ingrid Running Jacket",
+    "tamanho": "S",
+    "cor": "Orange",
+    "quantidade": 6
+  }      
+]
