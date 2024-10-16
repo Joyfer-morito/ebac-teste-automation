@@ -1,32 +1,16 @@
 ## O que Tem Aqui
--**Cadastro.cy.js:** Testes para a funcionalidade de cadastro da loja EBAC.
-
--**Login.cy.js:** Testes para a funcionalidade de login do usuário.
-
--**Detalhes Conta.cy.js:** Testes para visualizar os detalhes da conta do usuário.
-
--**Produtos.cy.js:** Testes para a visualização e interação com produtos disponíveis.
+- **cypress**: Diretório com os testes automatizados.
+- **cypress.config.js**: Configurações do Cypress para o projeto.
+- **package.json**: Dependências do projeto.
+- **package-lock.json**: Versões exatas das dependências instaladas.
+- **.gitignore**: Arquivo para ignorar arquivos e pastas no repositório.
 
 ## O que Você Precisa
--**Cypress:** Um framework de teste para a execução dos testes automatizados.
+- **Node.js**: Ambiente de execução para JavaScript.
+- **Cypress**: Framework de teste para a execução dos testes automatizados.
 
 ## Como Usar
--**Clone o repositório:**
+- Clone o repositório:
+  ```bash
+  git clone https://github.com/Joyfer-morito/ebac-teste-automation.git
 
--**git clone** 
-
--**Entre na pasta do projeto: cd teste-ebac-ui**
-
-## Instale as dependências:
-npm install
-
-## Execute os testes
--**Rode os testes utilizando o comando: npx cypress open**
-
--**E escolha o teste que deseja executar.**
-
-## Contribuição
-Se você quiser ajudar, fique à vontade para abrir sugestões ou fazer mudanças!
-
-## Licença
-Este projeto está sob a MIT License.
