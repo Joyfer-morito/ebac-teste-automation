@@ -1,7 +1,10 @@
 ## O que Tem Aqui
 -**Cadastro.cy.js:** Testes para a funcionalidade de cadastro da loja EBAC.
+
 -**Login.cy.js:** Testes para a funcionalidade de login do usuário.
+
 -**Detalhes Conta.cy.js:** Testes para visualizar os detalhes da conta do usuário.
+
 -**Produtos.cy.js:** Testes para a visualização e interação com produtos disponíveis.
 
 ## O que Você Precisa
@@ -9,7 +12,9 @@
 
 ## Como Usar
 -**Clone o repositório:**
+
 -**git clone** 
+
 -**Entre na pasta do projeto: cd teste-ebac-ui**
 
 ## Instale as dependências:
