@@ -22,6 +22,7 @@ npm install
 
 ## Execute os testes
 -**Rode os testes utilizando o comando: npx cypress open**
+
 -**E escolha o teste que deseja executar.**
 
 ## Contribuição
