@@ -1,16 +1,19 @@
-## O que Tem Aqui
-- **cypress**: Diretório com os testes automatizados.
-- **cypress.config.js**: Configurações do Cypress para o projeto.
-- **package.json**: Dependências do projeto.
-- **package-lock.json**: Versões exatas das dependências instaladas.
-- **.gitignore**: Arquivo para ignorar arquivos e pastas no repositório.
+What's Here
+- **cypress**: Directory with the automated tests.
+- **cypress.config.js**: Cypress configuration for the project.
+- **package.json**: Project dependencies.
+- **package-lock.json**: Exact versions of the installed dependencies.
+- **.gitignore**: File to ignore files and folders in the repository.
 
-## O que Você Precisa
-- **Node.js**: Ambiente de execução para JavaScript.
-- **Cypress**: Framework de teste para a execução dos testes automatizados.
+What You Need
+- **Node.js**: JavaScript runtime environment.
+- **Cypress**: Testing framework for running the automated tests.
 
-## Como Usar
-- Clone o repositório:
-  ```bash
-  git clone https://github.com/Joyfer-morito/ebac-teste-automation.git
+How to Use
+- **Clone the repository**:
+- git clone https://github.com/Joyfer-morito/ebac-teste-automation.git
+
+
+
+
 
