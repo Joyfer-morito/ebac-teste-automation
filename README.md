@@ -11,7 +11,7 @@ What You Need
 
 How to Use
 - **Clone the repository**:
-- git clone https://github.com/Joyfer-morito/ebac-teste-automation.git
+git clone https://github.com/Joyfer-morito/ebac-teste-automation.git
 
 
 
